@@ -22,3 +22,5 @@ public class TriangleEtoile {
         }
     }
 }
+/* ton programme est juste sauf que cr¦er une classe pour chaque partie n'est pas une bonne conception je veux dire que un triangle peut etre vu comme une classe qui aura pour methode dessiner_triangle () sinon c'est T Bien*/
+
